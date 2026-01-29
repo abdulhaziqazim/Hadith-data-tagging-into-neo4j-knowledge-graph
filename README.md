@@ -66,9 +66,11 @@ Data was collected using **web scraping**, then cleaned, normalized, and merged 
 ## Results
 
 Relationship model formed:
+
 <img width="746" height="345" alt="image" src="https://github.com/user-attachments/assets/54721467-3420-4bcb-9fe3-385bbd962a6e" />
 
 Neo4j Knowledge Graph:
+
 <img width="1480" height="814" alt="Screenshot 2025-06-03 150653" src="https://github.com/user-attachments/assets/40c5718c-7695-4542-8155-fd994635618c" />
 
 Hadith website deployment:
