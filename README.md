@@ -110,3 +110,10 @@ These results indicate that the model performs **effectively and consistently** 
 - Pandas, NumPy
 
 ---
+
+## ✍️ Work in Progress 
+
+- Standardizing the file
+- Containerize in docker
+- Final adjustment to the filename and file in code
+- Updating README
